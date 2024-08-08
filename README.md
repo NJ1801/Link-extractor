@@ -1,4 +1,4 @@
-# THH Link Extractor
+# Link Extractor
 
 ## Overview
 
